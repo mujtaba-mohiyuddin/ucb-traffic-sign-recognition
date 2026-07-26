@@ -10,4 +10,4 @@ German Traffic Sign Recognition Benchmark (GTSRB), via Kaggle.
 - Binary CNN classifier (speed limit vs. other)
 - Evaluation via confusion matrix and classification report
 
-Part of the UC Berkeley / Emeritus Post Graduate Certificate in ML & AI capstone project
+Assignment project - Post Graduate Certificate in ML & AI  project at UC Berkeley Executive Education
